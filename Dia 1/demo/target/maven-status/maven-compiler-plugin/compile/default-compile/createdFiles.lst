@@ -1,0 +1,5 @@
+com\crud\demo\model\Cliente.class
+com\crud\demo\repository\ClienteRepository.class
+com\crud\demo\controller\ClienteController.class
+com\crud\demo\DemoApplication.class
+com\crud\demo\service\ClienteService.class
