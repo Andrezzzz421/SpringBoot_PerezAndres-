@@ -1,5 +1,6 @@
-package com.example.productos;
+package com.example.controller;
 
+import com.example.model.ProductoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

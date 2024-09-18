@@ -1,4 +1,4 @@
-package com.example.productos;
+package com.example.model;
 
 public class Producto {
     private Long id;

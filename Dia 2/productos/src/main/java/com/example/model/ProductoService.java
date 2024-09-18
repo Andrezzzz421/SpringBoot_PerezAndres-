@@ -1,4 +1,4 @@
-package com.example.productos;
+package com.example.model;
 
 import org.springframework.stereotype.Service;
 
