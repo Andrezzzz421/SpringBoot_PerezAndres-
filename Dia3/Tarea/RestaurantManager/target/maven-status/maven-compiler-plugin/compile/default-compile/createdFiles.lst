@@ -1,0 +1,7 @@
+com\JPA\RestaurantManager\repository\MesaRepository.class
+com\JPA\RestaurantManager\controller\RestaurantController.class
+com\JPA\RestaurantManager\service\RestaurantManager.class
+com\JPA\RestaurantManager\repository\PlatoRepository.class
+com\JPA\RestaurantManager\RestaurantManagerApplication.class
+com\JPA\RestaurantManager\model\Plato.class
+com\JPA\RestaurantManager\model\Mesa.class
