@@ -40,7 +40,7 @@ public class RestaurantController {
     //actualizar a un plato por ID
     // localhost:8080/restaurant/plato/1 con verbo PUT
     //{
-    // "name":"Andres",
+    // "nombre":"Andres",
     // "precio":8.99,
     // "disponibilidad":true
     //}
